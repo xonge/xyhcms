@@ -20,6 +20,5 @@ if(!file_exists(APP_PATH.'Conf/config.db.php'))
 }
 
 require THINK_PATH.'ThinkPHP.php';//加载ThinkPHP框架
-
-
+echo "test";
 ?>
